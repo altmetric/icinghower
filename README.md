@@ -25,13 +25,13 @@ You can start icinghower locally by running:
 You'll see some start up output and a prompt:
 
     [Sat Feb 28 2015 12:38:27 GMT+0000 (GMT)] INFO Using default redis on localhost:6379
-    icinghower>
+    hubot>
 
-Then you can interact with icinghower by typing `icinghower help`.
+Then you can interact with hubot by typing `hubot help`.
 
-    icinghower> icinghower help
-    icinghower animate me <query> - The same thing as `image me`, except adds [snip]
-    icinghower help - Displays all of the help commands that icinghower knows about.
+    hubot> hubot help
+    hubot animate me <query> - The same thing as `image me`, except adds [snip]
+    hubot help - Displays all of the help commands that hubot knows about.
     ...
 
 ### Configuration
