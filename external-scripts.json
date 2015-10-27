@@ -10,5 +10,6 @@
   "hubot-rules",
   "hubot-shipit",
   "hubot-markov",
-  "hubot-kerb"
+  "hubot-kerb",
+  "hubot-codenames"
 ]
