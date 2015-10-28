@@ -12,5 +12,6 @@
   "hubot-markov",
   "hubot-kerb",
   "hubot-codenames",
-  "hubot-foldme"
+  "hubot-foldme",
+  "hubot-altmetric"
 ]

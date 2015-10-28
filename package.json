@@ -6,6 +6,7 @@
   "description": "Everyone's favourite baked good",
   "dependencies": {
     "hubot": "^2.16.0",
+    "hubot-altmetric": "altmetric/hubot-altmetric",
     "hubot-codenames": "^1.0.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-foldme": "0.0.1",
