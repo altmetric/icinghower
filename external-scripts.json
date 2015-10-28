@@ -11,5 +11,6 @@
   "hubot-shipit",
   "hubot-markov",
   "hubot-kerb",
-  "hubot-codenames"
+  "hubot-codenames",
+  "hubot-foldme"
 ]
