@@ -13,5 +13,6 @@
   "hubot-kerb",
   "hubot-codenames",
   "hubot-foldme",
-  "hubot-altmetric"
+  "hubot-altmetric",
+  "hubot-choose"
 ]
