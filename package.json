@@ -7,11 +7,11 @@
   "dependencies": {
     "hubot": "^2.16.0",
     "hubot-altmetric": "altmetric/hubot-altmetric",
+    "hubot-bing-images": "konieczkow/hubot-bing-images",
     "hubot-choose": "altmetric/hubot-choose",
     "hubot-codenames": "^1.0.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-foldme": "0.0.2",
-    "hubot-google-images": "^0.2.2",
     "hubot-google-translate": "^0.2.0",
     "hubot-help": "^0.1.1",
     "hubot-heroku-keepalive": "^1.0.0",
