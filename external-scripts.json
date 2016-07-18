@@ -14,5 +14,6 @@
   "hubot-codenames",
   "hubot-foldme",
   "hubot-altmetric",
-  "hubot-choose"
+  "hubot-choose",
+  "hubot-giphy"
 ]
