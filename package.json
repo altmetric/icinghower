@@ -5,7 +5,7 @@
   "author": "Altmetric Infrastructure <infrastructure@altmetric.com>",
   "description": "Everyone's favourite baked good",
   "dependencies": {
-    "hubot": "^2.16.0",
+    "hubot": "^2.19.0",
     "hubot-altmetric": "altmetric/hubot-altmetric",
     "hubot-bing-images": "konieczkow/hubot-bing-images",
     "hubot-choose": "altmetric/hubot-choose",
@@ -18,13 +18,13 @@
     "hubot-hipchat": "hipchat/hubot-hipchat",
     "hubot-kerb": "altmetric/hubot-kerb",
     "hubot-maps": "0.0.2",
-    "hubot-markov": "^1.4.0",
+    "hubot-markov": "^1.7.0",
     "hubot-pugme": "^0.1.0",
     "hubot-redis-brain": "0.0.3",
     "hubot-rules": "^0.1.1",
     "hubot-scripts": "^2.16.2",
     "hubot-shipit": "^0.2.0",
-    "hubot-slack": "^3.4.2"
+    "hubot-slack": "^4.0.0"
   },
   "engines": {
     "node": "0.12.x"
