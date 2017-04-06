@@ -6,9 +6,9 @@
   "description": "Everyone's favourite baked good",
   "dependencies": {
     "hubot": "^2.19.0",
-    "hubot-altmetric": "altmetric/hubot-altmetric",
-    "hubot-bing-images": "konieczkow/hubot-bing-images",
-    "hubot-choose": "altmetric/hubot-choose",
+    "hubot-altmetric": "github:altmetric/hubot-altmetric",
+    "hubot-bing-images": "github:konieczkow/hubot-bing-images",
+    "hubot-choose": "github:altmetric/hubot-choose",
     "hubot-codenames": "^1.0.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-foldme": "0.0.2",
@@ -16,15 +16,14 @@
     "hubot-google-translate": "^0.2.0",
     "hubot-help": "^0.1.1",
     "hubot-heroku-keepalive": "^1.0.0",
-    "hubot-hipchat": "hipchat/hubot-hipchat",
-    "hubot-kerb": "altmetric/hubot-kerb",
+    "hubot-kerb": "github:altmetric/hubot-kerb",
     "hubot-maps": "0.0.2",
-    "hubot-markov": "^1.7.0",
+    "hubot-markov": "^1.7.1",
     "hubot-pugme": "^0.1.0",
     "hubot-redis-brain": "0.0.3",
     "hubot-rules": "^0.1.1",
     "hubot-shipit": "^0.2.0",
-    "hubot-slack": "^4.3.3"
+    "hubot-slack": "^4.3.4"
   },
   "engines": {
     "node": "6.x"
