@@ -9,7 +9,7 @@
     "hubot-altmetric": "github:altmetric/hubot-altmetric",
     "hubot-bing-images": "github:konieczkow/hubot-bing-images",
     "hubot-choose": "github:altmetric/hubot-choose",
-    "hubot-codenames": "^1.0.0",
+    "hubot-codenames": "^1.1.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-foldme": "0.0.2",
     "hubot-giphy": "^0.6.1",
